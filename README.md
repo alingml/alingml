@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alingml
-- 👀 I’m interested in starting a career as a Junior Frontend Developer 
-- 🌱 I’m currently learning MERN Stack
+- 👀 I work as a Software Developer
+- 🌱 I am currently working on fullstack projects based on Angular/React and Java with Spring Stack
 - 📫 How to reach me : alin.gamalan@gmail.com
 
 <!---
