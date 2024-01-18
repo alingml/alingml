@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alingml
 - 👀 I work as a Software Developer
-- 🌱 I am currently working on fullstack projects based on Angular/React and Java with Spring Stack
+- 🌱 Stencil.js, React, React Native, NextJS, Angular, Vue, Java, Spring, Node, Express
 - 📫 How to reach me : alin.gamalan@gmail.com
 
 <!---
